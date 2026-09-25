@@ -1,11 +1,21 @@
 cff-version: 1.2.0
 title: "Self-Knowledging APIs: Governed Runtime Memory as an Architectural Layer for Agent-Driven Business Services (artifact)"
-message: "If you use this artifact, please cite the paper."
+message: "If you use this artifact, please cite it using the metadata below."
+type: software
 authors:
   - given-names: Nithin Kumar
     family-names: Kandagatla
+    affiliation: Independent Researcher
     email: nkandagatla@outlook.com
-version: 1.0.1
+  - given-names: Sangram
+    family-names: Palavarapu
+    affiliation: Independent Researcher
+    email: psabga014@gmail.com
+  - given-names: Prathyush Kumar
+    family-names: Seridoddi
+    affiliation: Independent Researcher
+    email: sprathyushkumar@gmail.com
+repository-code: "https://github.com/nkandagatla/self-knowledging-apis"
+version: 1.0.2
 date-released: 2026-09-25
 license: MIT
-repository-code: "https://github.com/nkandagatla/self-knowledging-apis"
