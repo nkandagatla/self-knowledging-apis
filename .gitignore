@@ -3,4 +3,7 @@ __pycache__/
 *.pyc
 .venv/
 *.docx
-*.docx
+
+# private: paper, notes, agreements (kept locally, never pushed)
+_submission/
+*.pdf
