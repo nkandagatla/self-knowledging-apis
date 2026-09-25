@@ -1,0 +1,14 @@
+{
+ "incident||": 1,
+ "msg|attack|experience": 14,
+ "msg|attack|injection": 21,
+ "msg|attack|social": 11,
+ "msg|compromised|compromised": 3,
+ "msg|compromised|trusted_injection": 1,
+ "msg|legit|memo": 33,
+ "msg|legit|reaffirm": 7,
+ "msg|transactional|": 10800,
+ "msg|transactional|stale_echo": 42,
+ "msg|unauthorized|scope": 8,
+ "probe||": 13500
+}
