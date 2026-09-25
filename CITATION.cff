@@ -15,6 +15,11 @@ authors:
     family-names: Seridoddi
     affiliation: Independent Researcher
     email: sprathyushkumar@gmail.com
+doi: 10.5281/zenodo.22951764
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.22951764
+    description: Zenodo archive of v1.0.2
 repository-code: "https://github.com/nkandagatla/self-knowledging-apis"
 version: 1.0.2
 date-released: 2026-09-25

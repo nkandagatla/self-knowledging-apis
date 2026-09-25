@@ -1,5 +1,7 @@
 # Self-Knowledging APIs: artifact
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22951764.svg)](https://doi.org/10.5281/zenodo.22951764)
+
 Reference implementation, benchmark and live demo for the paper
 **"Self-Knowledging APIs: Governed Runtime Memory as an Architectural Layer for Agent-Driven Business Services"**
 (prepared for IEEE ICSA 2027, Software Architecture in Practice track).
