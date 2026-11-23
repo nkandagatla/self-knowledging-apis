@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 title: "Self-Knowledging APIs: Governed Runtime Memory as an Architectural Layer for Agent-Driven Business Services (artifact)"
-message: "If you use this artifact, please cite it using the metadata below."
+message: "If you use this artifact, please cite the preprint using the preferred-citation below, and this software record for the code and data."
 type: software
 authors:
   - given-names: Nithin Kumar
@@ -24,3 +24,26 @@ repository-code: "https://github.com/nkandagatla/self-knowledging-apis"
 version: 1.0.2
 date-released: 2026-09-25
 license: MIT
+preferred-citation:
+  type: article
+  title: "Self-Knowledging APIs: Governed Runtime Memory as an Architectural Layer for Agent-Driven Business Services"
+  authors:
+    - given-names: Nithin Kumar
+      family-names: Kandagatla
+      affiliation: Independent Researcher
+      email: nkandagatla@outlook.com
+    - given-names: Sangram
+      family-names: Palavarapu
+      affiliation: Independent Researcher
+      email: psanga014@gmail.com
+    - given-names: Prathyush Kumar
+      family-names: Seridoddi
+      affiliation: Independent Researcher
+      email: sprathyushkumar@gmail.com
+  year: 2026
+  month: 11
+  doi: 10.5281/zenodo.24455903
+  url: "https://doi.org/10.5281/zenodo.24455903"
+  publisher:
+    name: Zenodo
+  notes: "Preprint. Concept DOI 10.5281/zenodo.24455902. Licensed CC BY 4.0."

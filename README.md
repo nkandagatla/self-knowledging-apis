@@ -1,10 +1,11 @@
 # Self-Knowledging APIs: artifact
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22951764.svg)](https://doi.org/10.5281/zenodo.22951764)
+[![Paper DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24455903.svg)](https://doi.org/10.5281/zenodo.24455903)
+[![Software DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22951764.svg)](https://doi.org/10.5281/zenodo.22951764)
 
 Reference implementation, benchmark and live demo for the paper
 **"Self-Knowledging APIs: Governed Runtime Memory as an Architectural Layer for Agent-Driven Business Services"**
-(prepared for IEEE ICSA 2027, Software Architecture in Practice track).
+([preprint](https://doi.org/10.5281/zenodo.24455903), Zenodo, 23 November 2026, DOI 10.5281/zenodo.24455903).
 
 ## What this is
 
@@ -70,3 +71,7 @@ B4 (91.3 %) falls to the level of the weekly backend because of reviewer error. 
 - Attack templates were written by the authors. The "social" class contains no injection keywords and is
   reported separately.
 - Records and policies come from tau-bench. They are synthetic but realistic, not production traffic.
+
+## Citation
+
+Please cite the preprint (DOI 10.5281/zenodo.24455903) for the paper, and this software archive (DOI 10.5281/zenodo.22951764) for the code and data.
